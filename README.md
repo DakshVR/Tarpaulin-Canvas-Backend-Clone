@@ -15,21 +15,6 @@ Tarpaulin, is a lightweight course management tool that’s an “alternative”
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-
-To get a local copy up and running follow these simple example steps.
-
-Git clone: 
-
-  ```sh
-git clone https://github.com/osu-cs493-sp23/Tarpaulin---Canvas-Backend-Clone.git
-  ```
-
-
 ### Prerequisites
 
 Download docker daemon : docker.com/products/docker-desktop/
